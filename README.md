@@ -13,7 +13,7 @@
 </h3>
 
 <p align="center">
-  <strong>Este curso ainda está sendo desenvolvido.</strong>
+  <strong>O curso básico/iniciante está finalizado :)</strong>
   <br />
   <a href="#"><strong>Explore a documentação »</strong></a>
   <br />
