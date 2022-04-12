@@ -30,7 +30,6 @@
   - Instalação no Linux
 
 - Introdução
-  - Introdução
   - Sobre o Projeto
 
 - SQL
