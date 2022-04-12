@@ -35,6 +35,7 @@
 - SQL
   - O que é banco de dados?
   - O que é SQL?
+  - Constraints
   - Tipos
 
 - Projeto
