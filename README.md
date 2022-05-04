@@ -45,6 +45,9 @@
   - [Atualizando valores](/contents/4%20-%20Projeto/4-Atualizando%20valores.md)
   - [Deletando valores](/contents/4%20-%20Projeto/5-Deletando%20valores.md)
 
+- Recusos Extras
+  - [Sequence (AUTO-INCREMENT)](/contents/5%20-%20Recursos%20Extras/1%20-%20Sequence.md)
+
 ## Quero contribuir
 
 Para contribuir com esse projeto maravilhoso, você:
