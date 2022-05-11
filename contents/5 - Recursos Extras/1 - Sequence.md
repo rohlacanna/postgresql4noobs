@@ -22,7 +22,7 @@ Este curso será baseado na [documentação](https://www.postgresql.org/docs/cur
 
 ---
 
-Agora chega de papo e bora para a pratica.
+Agora chega de papo e bora para a prática.
 
 Vamos usar a sintaxe que a própria documentação disponibiliza.
 
