@@ -14,3 +14,10 @@ DELETE 1
 ```
 
 Na query acima, deletamos exclusivamente o produto com a descrição 'Computador AMD', se não utilizassemos o comando WHERE deletariamos todos os produtos da tabela.
+
+<br/>
+<div style="text-align: right">
+
+[Próxima página](/contents/5%20-%20Recursos%20Extras/1%20-%20Sequence.md)
+
+</div>

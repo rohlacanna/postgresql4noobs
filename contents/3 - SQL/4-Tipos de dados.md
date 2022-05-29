@@ -11,3 +11,10 @@ Antes de iniciarmos a construção do projeto, é necessário entender que como 
 `BOOLEAN` - É possível também guardar valores de true/false em um banco, eles são salvos como valores numericos, respectivamente 1/0.
 
 `DATE` - Para datas, existe o campo DATE, que são salvas qualquer tipo de data, mas com o padrão americano, é possível colocar datas desde 1 de janeiro de 0001 e 31 de dezembro de 9999.
+
+<br/>
+<div style="text-align: right">
+
+[Próxima página](/contents/4%20-%20Projeto/1-Projeto.md)
+
+</div>
