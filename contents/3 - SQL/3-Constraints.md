@@ -21,3 +21,10 @@ Existem diversos tipos de constraints (restrições) que podemos aplicar as noss
 `FOREIGN KEY` - Faz referência a chave primária de outra tabela, permitindo assim o relacionamento entre colunas.
 
 `DEFAULT` - Garante que um valor padrão seja passado, sempre que determinada coluna receber valor nulo em sua criação ou manipulação.
+
+<br/>
+<div style="text-align: right">
+
+[Próxima página](/contents/3%20-%20SQL/4-Tipos%20de%20dados.md)
+
+</div>

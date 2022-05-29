@@ -11,3 +11,10 @@ Uma coleção de registros é chamada de arquivo e sistemas de bancos de dados p
 Para utilizar um banco de dados é necessário uma linguagem de comunicação, no nosso caso será utilizada a linguagem SQL, por meio query's de consultas dentro desse banco.
 
 Além do PostgreSQL, a linguagem SQL pode ser utilizada em outros bancos como: MySql, MariaDB, SQLite e etc.
+
+<br/>
+<div style="text-align: right">
+
+[Próxima página](/contents/3%20-%20SQL/2-O%20que%20%C3%A9%20SQL.md)
+
+</div>
